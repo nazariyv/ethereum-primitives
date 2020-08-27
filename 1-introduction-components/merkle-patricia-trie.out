@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{TRIE | PREFIX TRIE | DIGITAL TRIE}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{WHY DON'T WE USE TRIE IN ETHEREUM?}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{RADIX TRIE}{}% 3
+\BOOKMARK [1][-]{section.3}{Merkle Trie | Patricia Trie}{}% 4
+\BOOKMARK [2][-]{subsection.3.1}{Modified Merkle Patricia Trie | Merkle Patricia Trie | Modified Merkle Trie}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{To sum up}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{Correct synnonyms}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.2}{Word origins}{section.4}% 8
+\BOOKMARK [1][-]{section.5}{Why Modified Merkle Patricia Trie and not XYZ \(e.g. \044PASTA or \044YAM\)?}{}% 9
+\BOOKMARK [1][-]{section.6}{Better data structure for Ethereum?}{}% 10

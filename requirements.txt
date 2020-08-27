@@ -1,1 +1,2 @@
 notebook==6.0.3
+eth_mpt==0.2.0
